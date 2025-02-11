@@ -28,7 +28,7 @@ let BeautifulJekyllJS = {
     // show the big header image
     BeautifulJekyllJS.initImgs();
 
-    BeautifulJekyllJS.initSearch();
+    //BeautifulJekyllJS.initSearch();
   },
 
   initNavbar : function() {
@@ -112,7 +112,7 @@ let BeautifulJekyllJS = {
     }
   },
 
-  initSearch : function() {
+  /*initSearch : function() {
     if (!document.getElementById("beautifuljekyll-search-overlay")) {
       return;
     }
@@ -134,8 +134,8 @@ let BeautifulJekyllJS = {
         $("body").removeClass("overflow-hidden");
       }
     });
-  }
-};
+  } */
+}; 
 
 // 2fc73a3a967e97599c9763d05e564189
 

@@ -10,17 +10,16 @@
 ############################
 
 # Name of website
-title: 키다리 급여
-
+title: HOME
 # Your name to show in the footer
-author: 키다리 앱
+author: 둥지앱
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Home: "index"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -50,14 +49,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "dungzapp@hotmail.com"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: dungzapp
+  #github: daattali
+  twitter: dungzapp
+  #patreon: DeanAttali
+  #youtube: "@daattali"
+  #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -95,12 +94,12 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "dungzy.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -118,7 +117,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off

@@ -13,6 +13,7 @@ layout: base
         {% assign gh_user =  gh_split[0]  %}
         {% assign gh_repo =  gh_split[1]  %}
 
+        
         <div id="header-gh-btns">
           {% if page.gh-badge.size > 0 %}
             {% for badge in page.gh-badge %}
@@ -28,7 +29,7 @@ layout: base
               {% endcase %}
             {% endfor %}
           {% endif %}
-        </div>
+        </div> 
       {% endif %}
 
       {% if page.before-content %}
@@ -60,10 +61,12 @@ layout: base
         </div>
       {% endif %}
 
+      
       {% if page.social-share %}
         {% include social-share.html %}
       {% endif %}
 
+      
       <ul class="pagination blog-pager">
         {% if page.previous.url %}
         <li class="page-item previous">
@@ -81,7 +84,8 @@ layout: base
           </a>
         </li>
         {% endif %}
-      </ul>
+      </ul> 
+      
       {% include comments.html %}
     </div>
   </div>
