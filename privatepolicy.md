@@ -1,120 +1,15 @@
 ---
 layout: post
-title: 급여 관리 - 클릭 한번으로 끝  
-subtitle: 쉽고 빠른 급여계산기, 월급계산기, 급여명세서 와 은행이체 파일 생성까지  
+title: Private Policy  
+subtitle: 개인 정보 정책.
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
-tags: [월급계산기, 급여계산기, 급여, 급여명세서, 주휴수당계산기, 급여대장, 은행 이체 파일]
+tags: [private policy]
 comments: true
 mathjax: true 
 author: 키다리팀
 ---
 
 {: .box-success}
-시급사원인 경우 근무한 시간, 부양가족 수 등이 설정되어 있으면 클릭 한 번으로 급여 계산 끝!. 급여대장은 자동 생성 됩니다.  급여명세서 발급도 아주 간편해요.  급여관리 키다리 급여로 쉽고 편리하게 하세요. 
+키다리 급여는 사용자의 어떤 개인 정보도 수집하지 않습니다.
 
-## 원클릭 급여계산 (일괄계산)
-
-![원클릭 급여계산](/assets/img/payrollcalc.png)
-
-## 급여대장 자동 생성.
-
-![급여대장]({{ '/assets/img/payroll_manifest.png'}})
-
-## 급여명세서 이메일, 프린트, 은행 급여이체 파일 생성(엑셀)
-
-![기타기능](/assets/img/payrolletc_features.png)
-
-## 깔끔한 급여 명세서
-
-![프린트]({{ '/assets/img/payroll_print.png'}})
-
-## 근무시간입력으로 주휴수당 시간 자동계산
-
-![프린트]({{ '/assets/img/offday_calc.png'}})
-
-## 주휴수당 금액 자동 계산
-
-![프린트]({{ '/assets/img/offday_pay.png'}})
-
-<!--
-## Here is a secondary heading
-
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
-
-Here's a table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
-
--->

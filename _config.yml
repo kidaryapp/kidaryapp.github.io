@@ -20,10 +20,12 @@ author: 키다리앱
 
 navbar-links:
   Home: "index"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Download(유료): "https://apps.microsoft.com/detail/9n54p8z8w7lr?hl=ko-KR&gl=KR"
+  Download(무료): "index"
+  #Resources
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Private policy: "privatepolicy"
 
 ################
 # --- Logo --- #
