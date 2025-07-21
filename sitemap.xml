@@ -1,0 +1,16 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>https://kidaryapp.github.io/</loc>  <!-- 블로그 메인 페이지 URL -->
+      </url>
+      <url>
+        <loc>https://kidaryapp.github.io/2025-02-09-03_pay/</loc>  <!-- 게시물 URL 예시 -->
+      </url>
+      <url>
+        <loc>https://kidaryapp.github.io/2025-02-09-02_hometax/</loc>  <!-- 다른 게시물 URL 예시 -->
+      </url>
+      <url>
+        <loc>https://kidaryapp.github.io/2025-02-09-01retirement/</loc>  <!-- 다른 게시물 URL 예시 -->
+      </url>
+
+    </urlset>
