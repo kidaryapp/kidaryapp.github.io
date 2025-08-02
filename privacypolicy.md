@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Private Policy  
+title: Privacy Policy  
 subtitle: 개인 정보 정책.
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
-tags: [private policy]
+tags: [privacy policy]
 comments: true
 mathjax: true 
 author: 키다리팀
